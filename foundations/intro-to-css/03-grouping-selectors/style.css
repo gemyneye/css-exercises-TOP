@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.click {
+    background-color: RGB(000,000,000);
+    color: white;
+}
+
+.no-click {
+    background-color: rgb(255, 255, 0);
+}
+
+.font-style {
+    font-family: Helvetica, "Times New Roman", "Sans Serif";
+    font-size: 28px;
+}
